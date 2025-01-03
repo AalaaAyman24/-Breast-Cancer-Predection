@@ -1,14 +1,13 @@
 ---
 
-# Breast Cancer Prediction Project 🤖🎯
+# Breast Cancer Prediction Project 🤖🎀
 
 Welcome to our Breast Cancer Prediction project!This project aims to predict whether a tumor is malignant or benign based on various features such as the tumor's radius, texture, perimeter, and area. We used a dataset containing key characteristics of tumors to build and deploy a machine learning model capable of predicting breast cancer diagnoses accurately.
 
 ---
 
 # Demo Video
-
-
+[![Demo Video](https://github.com/AalaaAyman24/Breast-Cancer-Predection/blob/main/Demo%20Video/Demo%20Video.png?raw=true)](Linkedin)
 
  ---
 
