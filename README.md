@@ -176,12 +176,25 @@ The `visualize_data()` function helps users explore datasets through various cha
 4. **Warnings**: The function warns users if a chart type isn’t suitable for the selected column (e.g., too many unique values for a bar chart).
 
 
-### 13. *Download Processed Data*
+### 13. *Modeling and Model Development*
+
+In the **model development** stage, we tested several machine learning models to find the best fit for the data:
+
+- **Logistic Regression**: Good but less accurate.
+- **KNN**: Effective in some cases but not practical with large datasets.
+- **Decision Tree**: Simple but suffered from **overfitting**.
+- **XGBoost**: Strong results but did not outperform Random Forest.
+- **SVM**: Good, but less efficient compared to Random Forest.
+- **Random Forest** : The winner with an outstanding **98% accuracy** 🎯.
+
+After using a **Voting Classifier** (combining multiple models) and **Grid Search** for optimization, we found that **Random Forest** performed the best.
+
+### 14. *Download Processed Data*
 - **Download Data**: 
   - Once you’ve processed and cleaned your data, you can download it in your preferred format (CSV or Excel) by clicking the "Download Processed Data" button in the sidebar.
   - This allows you to use the cleaned and transformed data for further analysis or to share it with others.
 
-### 14. *RAG Chatbot Integration*
+### 15. *RAG Chatbot Integration*
 
 The **RAG (Retrieval Augmented Generation) Chatbot** is integrated into this application to provide an interactive way to ask questions about your dataset. You can use the chatbot to get instant answers and insights about your data without needing to manually analyze it. The chatbot uses advanced language models to generate relevant responses based on your queries.
 
