@@ -7,7 +7,7 @@ Welcome to our Breast Cancer Prediction project!This project aims to predict whe
 ---
 
 # Demo Video
-[![Demo Video](https://github.com/AalaaAyman24/Breast-Cancer-Predection/blob/main/Demo%20Video/Demo%20Video.png?raw=true)](Linkedin)
+[![Demo Video](https://github.com/AalaaAyman24/Breast-Cancer-Predection/blob/main/Demo%20Video/Demo%20Video.png?raw=true)](https://www.linkedin.com/posts/aalaa-ayman_breastcancerprediction-datamining-machinelearning-activity-7281016180109160448-ZTHd?utm_source=share&utm_medium=member_desktop)
 
  ---
 
