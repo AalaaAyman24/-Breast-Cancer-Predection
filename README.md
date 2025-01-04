@@ -212,11 +212,6 @@ To use the RAG Chatbot, simply type your query into the chatbot interface and ge
 
 ---
 
-## Conclusion
-The Streamlit Dataset Processing and Retrieval Augmented Generation (RAG) Chatbot application offers a comprehensive solution for efficient dataset preprocessing, data visualization, and seamless interaction with a smart chatbot. By leveraging powerful data-cleaning, transformation, and visualization tools, users can quickly gain valuable insights into their data. The intuitive interface and advanced features, including RAG chatbot integration for automated queries, allow both novice and experienced data analysts to perform in-depth analysis with ease. Whether you're cleaning data, visualizing trends, or asking specific dataset-related questions, this application simplifies the entire process, helping you to make data-driven decisions efficiently.
-
----
-
 ## Technologies Used
 
 - **Streamlit**: For building the interactive web application.
