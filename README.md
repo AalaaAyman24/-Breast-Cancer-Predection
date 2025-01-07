@@ -246,8 +246,6 @@ For any inquiries or feedback, please contact:
 - GitHub: [https://github.com/AalaaAyman24]
 
 ---
-
 ### Thank you for using the **Streamlit Dataset Processing and RAG Chatbot** application!🙌🏻
-
 ---
 
